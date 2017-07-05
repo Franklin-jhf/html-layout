@@ -1,0 +1,28 @@
+body {
+    background-color: #d7d7d7;
+    margin: 0px;
+    border:0px;
+}
+
+header {
+    background-color: #444444;
+    height: 150px;
+    border: 0px;
+}
+
+body div {
+    margin: auto;
+    width: 75%;
+}
+
+section {
+    background-color: #efeeef;
+    height: 675px;
+    align-self: center;
+    margin: auto;
+}
+
+footer {
+    background-color: black;
+    height: 75px;
+}

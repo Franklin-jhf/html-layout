@@ -1,0 +1,49 @@
+body {
+    margin: 0px;
+}
+
+div {
+    height: 950px;
+}
+
+section {
+    width:33%;
+    height: inherit;
+    float: left;
+}
+
+section:nth-child(1) {
+    background-color:#4a8fe2;
+}
+
+section:nth-child(2) {
+    background-color:#4fe3c1;
+}
+
+.third-col {
+    float: left;
+    width: 33%;
+}
+
+.third-col div:nth-child(1) {
+    background-color:#b7e886;
+    height: 80%;
+}
+
+.third-col div:nth-child(2) {
+    background-color:#d0021b;
+    height: 20%;
+    text-align: center;
+}
+
+h2 {
+    margin: 0px;
+    color: white;
+    position: relative;
+    top: 45%;
+}
+
+
+
+
+
